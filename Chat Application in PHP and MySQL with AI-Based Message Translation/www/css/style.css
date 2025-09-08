@@ -1,0 +1,135 @@
+.vh-100 {
+	min-height: 100vh;
+}
+.w-400 {
+	width: 400px;
+	background-color: #f3e6ff;
+}
+
+.fs-xs {
+	font-size: 1rem;
+}
+.w-10 {
+	width: 10%;
+}
+a {
+	text-decoration: none;
+}
+.fs-big {
+	font-size: 5rem !important;
+}
+.online {
+	width: 10px;
+	height: 10px;
+	background: #4b0082;
+	border-radius: 50%;
+}
+.w-15 {
+	width: 15%;
+}
+.fs-sm {
+	font-size: 1.4rem;
+}
+small {
+	color: #bbb;
+	font-size: 0.7rem;
+	text-align: right;
+}
+.chat-box {
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-height: 50vh;
+}
+.rtext {
+	width: 65%;
+	background: #f5f0ff;
+	color: #4b0082;
+}
+
+.ltext {
+	width: 65%;
+	background: #6a0dad;
+	color: #fff;
+}
+
+*::-webkit-scrollbar {
+  width: 3px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #6a0dad;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #4b0082;
+}
+
+textarea {
+	resize: none;
+}
+
+.btn-primary {
+	background-color: #6a0dad !important;
+	border-color: #6a0dad !important;
+	color: white !important;
+}
+
+.btn-primary:hover {
+	background-color: #8a2be2 !important;
+	border-color: #8a2be2 !important;
+	color: white !important;
+}
+
+h3, .fs-sm, .fs-xs {
+	color: #6a0dad;
+}
+
+.form-label {
+	color: #6a0dad;
+	font-weight: bold;
+}
+
+.rtext {
+	background: #f5f0ff;
+	color: #4b0082;
+}
+
+.ltext {
+	background: #6a0dad;
+	color: #fff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #6a0dad;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #4b0082;
+}
+
+.no-messages {
+    background-color: #6a0dad !important;
+    color: white !important;
+    border-color: #6a0dad !important;
+}
+
+.last-seen {
+    color: #4b0082;
+    font-weight: 600;
+}
+
+.btn-login {
+    color: #4b0082;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.btn-login:hover {
+    color: #7b3fbf;
+}
