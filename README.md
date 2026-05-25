@@ -45,31 +45,31 @@ It includes AJAX-based messaging, user system, conversations, online status, and
 ## Screenshots
 
 ### DB
-![DB](ScreenShot/DB.png)
+![DB](Screenshot/DB.png)
 
 ### Registration Page
-![Registration Page](ScreenShot/RegistrationPage.png)
+![Registration Page](Screenshot/RegistrationPage.png)
 
 ### Account Created
-![Account Created](ScreenShot/AccountCreated.png)
+![Account Created](Screenshot/AccountCreated.png)
 
 ### Main Page
-![Main Page](ScreenShot/MainPage.png)
+![Main Page](Screenshot/MainPage.png)
 
 ### Search
-![Search](ScreenShot/Search.jpg)
+![Search](Screenshot/Search.jpg)
 
 ### Chat Page
-![Chat Page](ScreenShot/ChatPage.jpg)
+![Chat Page](Screenshot/ChatPage.jpg)
 
 ### Message Received
-![Message Received](ScreenShot/MessageReceived.jpg)
+![Message Received](Screenshot/MessageReceived.jpg)
 
 ### Chatting
-![Chatting](ScreenShot/Chatting.jpg)
+![Chatting](Screenshot/Chatting.jpg)
 
 ### Message translation support
-![MyMemoryTranslation](ScreenShot/MyMemoryTranslation.jpg)
+![MyMemoryTranslation](Screenshot/MyMemoryTranslation.jpg)
 
 ## Installation
 
